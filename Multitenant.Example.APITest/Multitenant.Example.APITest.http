@@ -1,0 +1,6 @@
+@Multitenant.Example.APITest_HostAddress = http://localhost:5161
+
+GET {{Multitenant.Example.APITest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
